@@ -1,0 +1,10 @@
+.eventOne {
+  background-image: url(../../assets/images/event-1.png);
+}
+.eventTwo {
+  background-image: url(../../assets/images/event-2.png);
+}
+.eventBackDrop {
+  -webkit-backdrop-filter: blur(24px);
+  backdrop-filter: blur(24px);
+}
